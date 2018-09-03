@@ -3,22 +3,20 @@ keywords: Cryptography, Privacy, Information Security, Digital Signatures
 description: Academic Website of David Derler
 title: Homepage of David Derler
 
-author: David Derler
-authorimg: images/dd.png
+author: Manu Drijvers
+authorimg: images/manu.png
 authoroccup: Researcher in Cryptography
 
-inst: IAIK
-insturl: http://www.iaik.tugraz.at
-uni: Graz University of Technology
-uniurl: http://www.tugraz.at
+inst: DFINITY
+insturl: https://dfinity.org
+uni: DFINITY
+uniurl: https://dfinity.org
 
-vcard: 'mailto:cryptsec@derler.info'
-office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
-twitter: dderler
-keybase: dderler
-linkedin: david-derler-08630495
-dblp: hd/d/Derler:David
-scholar: YfMKI0wAAAAJ
+vcard: 'mailto:manu@ddfinity.org'
+twitter: manudrijvers
+linkedin: drijvers
+dblp: hd/d/Drijvers:Manu
+scholar: yWviyh0AAAAJ
 
 # Build settings
 markdown: kramdown
@@ -36,5 +34,3 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
-include:
-  - keybase.txt
