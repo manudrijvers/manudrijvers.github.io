@@ -1,10 +1,9 @@
 # Site metadata
-keywords: Cryptography, Privacy, Information Security, Digital Signatures
-description: Academic Website of David Derler
-title: Homepage of David Derler
+description: Academic Website of Manu Drijvers
+title: Manu Drijvers
 
 author: Manu Drijvers
-authorimg: images/manu.png
+authorimg: images/manu2.jpg
 authoroccup: Researcher in Cryptography
 
 inst: DFINITY
@@ -12,7 +11,7 @@ insturl: https://dfinity.org
 uni: DFINITY
 uniurl: https://dfinity.org
 
-vcard: 'mailto:manu@ddfinity.org'
+vcard: 'mailto:manu@dfinity.org'
 twitter: manudrijvers
 linkedin: drijvers
 dblp: hd/d/Drijvers:Manu

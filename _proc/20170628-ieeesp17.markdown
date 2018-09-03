@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2017
+title: Universally Composable Direct Anonymous Attestation
+authors: Jan Camenisch, Liqun Chen, Manu Drijvers, Anja Lehmann, David Novick, Rainer Urian
+venue: IEEE S&P 2017
+vurl: https://www.ieee-security.org/TC/SP2017/
+pdf: https://eprint.iacr.org/2017/639.pdf
+web: https://eprint.iacr.org/2017/639
+pub: https://dx.doi.org/10.1109/SP.2017.22
+bib: https://dblp.uni-trier.de/rec/bibtex/journals/iacr/CamenischCDLNU17
+
+---
+

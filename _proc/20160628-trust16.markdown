@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2016
+title: Anonymous Attestation Using the Strong Diffie Hellman Assumption Revisited
+authors: Jan Camenisch, Manu Drijvers, Anja Lehmann
+venue: TRUST 2016
+vurl: https://trust2016.sba-research.org/
+pdf: https://eprint.iacr.org/2016/663.pdf
+web: https://eprint.iacr.org/2016/663
+pub: https://doi.org/10.1007/978-3-319-45572-3_1
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/trust/CamenischDL16
+---
+

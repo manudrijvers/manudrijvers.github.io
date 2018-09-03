@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2017
+title: Practical UC-Secure Delegatable Credentials with Attributes and Their Application to Blockchain
+authors: Jan Camenisch, Manu Drijvers, Maria Dubovitskaya
+venue: CCS 2017
+vurl: https://ccs2017.sigsac.org/
+pub: http://doi.acm.org/10.1145/3133956.3134025
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/ccs/CamenischDD17
+
+---
+

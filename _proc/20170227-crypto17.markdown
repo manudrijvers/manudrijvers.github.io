@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2017
+title: Anonymous Attestation with Subverted TPMs
+authors: Jan Camenisch, Manu Drijvers, Anja Lehmann
+venue: CRYPTO 2017
+vurl: https://www.iacr.org/conferences/crypto2017/
+pdf: https://eprint.iacr.org/2017/200.pdf
+web: https://eprint.iacr.org/2017/200
+pub: https://doi.org/10.1007/978-3-319-63697-9_15
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/crypto/CamenischDL17
+
+---
+

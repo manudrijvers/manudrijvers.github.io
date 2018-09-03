@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2018
+title: The Wonderful World of Global Random Oracles
+authors: Jan Camenisch, Manu Drijvers, Tommaso Gagliardoni, Anja Lehmann, Gregory Neven
+venue: EUROCRYPT 2018
+vurl: https://eurocrypt.iacr.org/2018/
+pdf: https://eprint.iacr.org/2018/165.pdf
+web: https://eprint.iacr.org/2018/165
+pub: https://doi.org/10.1007/978-3-319-78381-9_11
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/eurocrypt/CamenischDGLN18
+
+---
+

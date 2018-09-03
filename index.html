@@ -23,6 +23,8 @@ layout: default
 </table>
 {% endif %}
 
+{% assign psize = site.proc | size %}
+{% if psize > 0 %}
 <table class="pubtable">
 
 <thead>
@@ -36,7 +38,10 @@ layout: default
 {% endfor %}
         
 </table>
+{% endif %}
 
+{% assign psize = site.jour | size %}
+{% if psize > 0 %}
 <table class="pubtable">
 
 <thead>
@@ -50,7 +55,10 @@ layout: default
 {% endfor %}
 
 </table>
+{% endif %}
 
+{% assign psize = site.articles | size %}
+{% if psize > 0 %}
 <table class="pubtable">
 
 <thead>
@@ -64,7 +72,10 @@ layout: default
 {% endfor %}
 
 </table>
+{% endif %}
 
+{% assign psize = site.talk | size %}
+{% if psize > 0 %}
 <table class="pubtable">
 
 <thead>
@@ -78,7 +89,10 @@ layout: default
 {% endfor %}
 
 </table>
+{% endif %}
 
+{% assign psize = site.theses | size %}
+{% if psize > 0 %}
 <table class="pubtable">
 
 <thead>
@@ -92,19 +106,6 @@ layout: default
 {% endfor %}
 
 </table>
+{% endif %}
 
-<table class="pubtable">
-
-<thead>
-  <tr><th colspan="3" >Selected Project Deliverables</th></tr>
-</thead>
-
-{% for post in site.deli reversed %}
-
-{% include pubentry.html %}
-
-{% endfor %}
-        
-</table>
-        
 

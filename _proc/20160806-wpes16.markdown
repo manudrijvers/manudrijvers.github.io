@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2016
+title: Scalable Revocation Scheme for Anonymous Credentials Based on n-times Unlinkable Proofs
+authors: Jan Camenisch, Manu Drijvers, Jan Hajny
+venue: WPES@CCS 2016
+vurl: http://wpes2016.di.unimi.it/
+pub: http://dl.acm.org/citation.cfm?id=2994625
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/wpes/CamenischDH16
+
+---
+

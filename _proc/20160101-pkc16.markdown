@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2016
+title: Universally Composable Direct Anonymous Attestation
+authors: Jan Camenisch, Manu Drijvers, Anja Lehmann
+venue: PKC 2016
+vurl: https://troll.iis.sinica.edu.tw/pkc16
+pdf: https://eprint.iacr.org/2015/1246.pdf
+web: https://eprint.iacr.org/2015/1246
+pub: https://doi.org/10.1007/978-3-662-49387-8_10
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/pkc/CamenischDL16
+
+---
+
