@@ -9,6 +9,8 @@ pdf: https://eprint.iacr.org/2017/639.pdf
 web: https://eprint.iacr.org/2017/639
 pub: https://dx.doi.org/10.1109/SP.2017.22
 bib: https://dblp.uni-trier.de/rec/bibtex/journals/iacr/CamenischCDLNU17
+award: Pat Goldberg Memorial Best Paper Award 2017
+awardurl: https://researcher.watson.ibm.com/researcher/view_group.php?id=5855
 
 ---
 
