@@ -6,7 +6,7 @@ authors: Dan Boneh, Manu Drijvers, Gregory Neven
 venue: ASIACRYPT 2018
 vurl: https://asiacrypt.iacr.org/2018/
 pdf: https://eprint.iacr.org/2018/483.pdf
-web: https://eprint.iacr.org/2018/483
+web: https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html
 
 ---
 
