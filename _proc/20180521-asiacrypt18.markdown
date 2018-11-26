@@ -7,6 +7,8 @@ venue: ASIACRYPT 2018
 vurl: https://asiacrypt.iacr.org/2018/
 pdf: https://eprint.iacr.org/2018/483.pdf
 web: https://crypto.stanford.edu/~dabo/pubs/papers/BLSmultisig.html
+pub: https://doi.org/10.1007/978-3-030-03329-3_15
+bib: https://dblp.uni-trier.de/rec/bibtex/conf/asiacrypt/BonehDN18
 
 ---
 
