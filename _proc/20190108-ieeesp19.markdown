@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2019
+title: On the Security of Two-Round Multi-Signatures
+authors: Manu Drijvers, Kasra Edalatnejad, Bryan Ford, Eike Kiltz, Julian Loss, Gregory Neven, Igors Stepanovs
+venue: IEEE S&P 2019
+vurl: https://https://ieee-security.org/TC/SP2019
+pdf: https://eprint.iacr.org/2018/417.pdf
+web: https://eprint.iacr.org/2018/417
+
+---
+
