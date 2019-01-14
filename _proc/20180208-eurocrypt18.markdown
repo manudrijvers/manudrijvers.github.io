@@ -9,6 +9,6 @@ pdf: https://eprint.iacr.org/2018/165.pdf
 web: https://eprint.iacr.org/2018/165
 pub: https://doi.org/10.1007/978-3-319-78381-9_11
 bib: https://dblp.uni-trier.de/rec/bibtex/conf/eurocrypt/CamenischDGLN18
-
+talk: https://eurocrypt.iacr.org/2018/Slides/Monday/TrackA/02-03.pdf
 ---
 
