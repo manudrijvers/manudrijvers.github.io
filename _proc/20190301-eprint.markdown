@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2019
+title: Multi-Protocol UC and its Use for Building Modular and Efficient Protocols
+authors: Jan Camenisch, Manu Drijvers, Björn Tackmann
+venue: ePrint
+pdf: https://eprint.iacr.org/2019/065.pdf
+web: https://eprint.iacr.org/2019/065
+
+---
+
