@@ -1,0 +1,11 @@
+---
+layout: post
+year: 2019
+title: Forward-Secure Multi-Signatures
+authors: Manu Drijvers, Gregory Neven
+venue: ePrint
+pdf: https://eprint.iacr.org/2019/261.pdf
+web: https://eprint.iacr.org/2019/261
+
+---
+
