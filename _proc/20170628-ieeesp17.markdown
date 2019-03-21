@@ -1,7 +1,7 @@
 ---
 layout: post
 year: 2017
-title: Universally Composable Direct Anonymous Attestation
+title: "One TPM to Bind Them All: Fixing TPM 2.0 for Provably Secure Anonymous Attestation"
 authors: Jan Camenisch, Liqun Chen, Manu Drijvers, Anja Lehmann, David Novick, Rainer Urian
 venue: IEEE S&P 2017
 vurl: https://www.ieee-security.org/TC/SP2017/
