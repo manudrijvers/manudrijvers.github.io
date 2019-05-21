@@ -1,11 +1,11 @@
 ---
 layout: post
 year: 2019
-title: Forward-Secure Multi-Signatures
-authors: Manu Drijvers, Gregory Neven
+title: "Pixel: Multi-signatures for Consensus"
+authors: Manu Drijvers, Sergey Gorbunov, Gregory Neven, Hoeteck Wee
 venue: ePrint
-pdf: https://eprint.iacr.org/2019/261.pdf
-web: https://eprint.iacr.org/2019/261
+pdf: https://eprint.iacr.org/2019/514.pdf
+web: https://eprint.iacr.org/2019/514
 
 ---
 
