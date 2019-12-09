@@ -1,9 +1,10 @@
 ---
 layout: post
-year: 2019
+year: 2020
 title: "Pixel: Multi-signatures for Consensus"
 authors: Manu Drijvers, Sergey Gorbunov, Gregory Neven, Hoeteck Wee
-venue: ePrint
+venue: USENIX Security 2020
+vurl: https://www.usenix.org/conference/usenixsecurity20
 pdf: https://eprint.iacr.org/2019/514.pdf
 web: https://eprint.iacr.org/2019/514
 
